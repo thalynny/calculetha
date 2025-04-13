@@ -10,5 +10,5 @@ import { CalculadoraComponent } from './componentes/calculadora/calculadora.comp
   styleUrl: './app.component.css'
 })
 export class AppComponent {
-  title = 'calculadora-ferias';
+  title = 'calculetha';
 }
