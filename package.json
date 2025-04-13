@@ -4,8 +4,8 @@
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
-    "build": "ng build",
-    "deploy": "ng build --configuration production --base-href /calculetha/ && npx angular-cli-ghpages --dir=dist/calculetha",
+    "build:dev": "ng build",
+    "build": "ng build --configuration production --base-href /calculetha/ && npx angular-cli-ghpages --dir=dist/calculetha",
     "watch": "ng build --watch --configuration development",
     "test": "ng test"
   },
